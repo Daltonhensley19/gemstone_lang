@@ -1,0 +1,18 @@
+# This line needs to come before anything else in Cargo.toml
+cargo-features = ["codegen-backend"]
+
+[profile.dev]
+codegen-backend = "cranelift"
+
+[package]
+name = "gemstone"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lexical_analyzer = { path = "shared/lexical_analyzer" }
+module_manager = { path = "shared/module_manager" }
+preprocessor = { path = "shared/preprocessor" }
+parser = { path = "shared/parser" }
+pretty_env_logger = "0.5.0"
+log = "0.4.26"

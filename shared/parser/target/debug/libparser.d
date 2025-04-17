@@ -1,0 +1,1 @@
+/home/dalton/desktop/gemstone/shared/parser/target/debug/libparser.rlib: /home/dalton/desktop/gemstone/shared/lexical_analyzer/src/lib.rs /home/dalton/desktop/gemstone/shared/module_manager/src/lib.rs /home/dalton/desktop/gemstone/shared/parser/src/lib.rs /home/dalton/desktop/gemstone/shared/span/src/lib.rs /home/dalton/desktop/gemstone/shared/typer/src/lib.rs

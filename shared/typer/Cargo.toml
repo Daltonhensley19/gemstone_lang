@@ -1,0 +1,7 @@
+[package]
+name = "typer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lexical_analyzer = { path = "../lexical_analyzer" }

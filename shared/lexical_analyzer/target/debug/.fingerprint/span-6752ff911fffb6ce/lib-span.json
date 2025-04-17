@@ -1,0 +1,1 @@
+{"rustc":4321888008162431361,"features":"[]","declared_features":"[]","target":8930816825818350003,"profile":12418163568498912733,"path":13467287569719580699,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/span-6752ff911fffb6ce/dep-lib-span","checksum":false}}],"rustflags":["-C","link-arg=--ld-path=/usr/bin/mold"],"config":9394445363869493981,"compile_kind":0}
